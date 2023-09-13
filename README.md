@@ -1,2 +1,3 @@
-# react-streampay-js
-React components for StreamPay.js and Elements
+# React StreamPay.js
+
+**React components for StreamPay.js and Elements**
